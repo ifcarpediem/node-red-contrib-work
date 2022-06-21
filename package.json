@@ -1,0 +1,27 @@
+{
+  "name": "red-contrib-work",
+  "version": "1.0.0",
+  "description": "Node description",
+  "main": "node.js",
+  "scripts": {
+    "test": "No input required"
+  },
+  "node-red": {
+    "nodes": {
+      "lower-case": "node.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifcarpediem/node-red-contrib-work.git"
+  },
+  "keywords": [
+    "lowercase"
+  ],
+  "author": "leaf",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ifcarpediem/node-red-contrib-work/issues"
+  },
+  "homepage": "https://github.com/ifcarpediem/node-red-contrib-work#readme"
+}
